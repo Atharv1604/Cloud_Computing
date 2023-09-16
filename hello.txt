@@ -1,2 +1,5 @@
 Git Hub CC repo
 
+steps create repo>>generate token >> in vm check git availability -   git -v >>do configuration  git config --global user.email "email id " same for username password
+git clone >> edit file inside our git repo using vm  
+
